@@ -562,6 +562,10 @@
           top: 16px;
           left: 12px;
         }
+        ul.icons li a.doc svg {
+          top: 16px;
+          left: 12px;
+        }
 
 					ul.icons li a:before {
 						-moz-osx-font-smoothing: grayscale;
